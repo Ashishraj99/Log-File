@@ -1,4 +1,4 @@
-## Log File Monitor and Analyzer
+## Log Analyzer and File Monitor
 
 This script continuously monitors a specified log file for new entries, displays them in real-time, and performs basic analysis on keywords or patterns.
 
